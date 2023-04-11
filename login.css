@@ -1,0 +1,24 @@
+body{
+    background: url(pics/bg.jpg);
+    background-size: cover;
+}
+.login_box{
+    /* margin: 33%;
+    padding: 0;
+    border: 3px solid #0000ff;
+    background-color: brown;
+    padding-bottom: 100px; */
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400px;
+    padding: 50px;
+    margin: 20% 40%;
+    background-color: rgb(18, 210, 244);
+    border: 2px solid grey;
+    padding: 30vh 10px;
+}
+.form{
+    
+}
